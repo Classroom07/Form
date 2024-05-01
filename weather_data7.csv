@@ -1,0 +1,31 @@
+Date,Time,Latitude,Longitude,City,Country,Temperature (Celsius),Feels Like (Celsius),Wind Speed (m/s),Humidity (%),Pressure (hPa),Visibility (meters),Weather Type,Weather Description,Wind Direction (degrees),AQI
+01-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,34,37,17,79,1005,2914,Sunny,Sunny,63,120
+02-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,36,40,14,89,1007,3087,Sunny,Sunny,64,132
+03-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,37,40,12,84,1007,3969,Partly Cloudy,Partly Cloudy,25,103
+04-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,35,36,11,89,1004,2710,Partly Cloudy,Partly Cloudy,128,137
+05-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,33,37,14,87,1003,3808,Mostly Cloudy,Mostly Cloudy,125,113
+06-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,32,36,11,82,1007,2777,Light Rain,Light Rain,91,146
+07-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,34,35,10,84,1006,2920,Sunny,Sunny,67,103
+08-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,35,38,16,79,1004,3437,Sunny,Sunny,147,116
+09-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,38,41,12,61,1003,3326,Hot and Sunny,Hot and Sunny,96,140
+10-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,39,40,9,72,1004,3587,Hot and Sunny,Hot and Sunny,81,140
+11-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,40,43,9,70,1004,2773,Very Hot and Sunny,Very Hot and Sunny,91,121
+12-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,38,40,13,66,1005,2786,Hot and Sunny,Hot and Sunny,120,99
+13-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,37,39,7,62,1007,3541,Sunny,Sunny,56,115
+14-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,36,38,16,70,1004,3319,Partly Cloudy,Partly Cloudy,38,101
+15-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,35,36,14,78,1005,3213,Partly Cloudy,Partly Cloudy,4,151
+16-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,34,35,14,86,1005,3033,Mostly Cloudy,Mostly Cloudy,21,130
+17-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,33,36,9,79,1004,4034,Sunny,Sunny,45,101
+18-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,35,38,11,84,1005,2718,Sunny,Sunny,99,103
+19-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,36,39,12,89,1005,4144,Partly Cloudy,Partly Cloudy,35,127
+20-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,38,39,11,89,1007,3786,Hot and Sunny,Hot and Sunny,100,100
+21-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,39,43,11,75,1005,2530,Hot and Sunny,Hot and Sunny,125,123
+22-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,41,44,14,67,1005,3903,Very Hot and Sunny,Very Hot and Sunny,12,136
+23-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,40,44,13,56,1006,3188,Very Hot and Sunny,Very Hot and Sunny,57,116
+24-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,38,40,7,59,1007,3261,Hot and Sunny,Hot and Sunny,7,151
+25-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,37,39,9,63,1004,3465,Sunny,Sunny,83,135
+26-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,36,39,11,89,1007,4080,Partly Cloudy,Partly Cloudy,23,147
+27-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,35,39,16,84,1007,3916,Partly Cloudy,Partly Cloudy,50,137
+28-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,34,38,9,59,1007,3793,Mostly Cloudy,Mostly Cloudy,9,99
+29-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,38,39,8,66,1006,4208,Sunny,Sunny,86,139
+30-04-2024,19:19:14,22.5744,88.3629,Kolkata,IN,43,46,8,68,1005,4339,Very Hot and Sunny (Record High),Very Hot and Sunny (Record High),171,147
